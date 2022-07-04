@@ -9,4 +9,4 @@ When you enter a wrong input, you will be asked to refresh the page.
 
 Link to my published page: https://josh565565.github.io/second-javascript-zuri-task/
 
-Thank you I4G and Zuri tearm.
+Thank you I4G and Zuri team.
