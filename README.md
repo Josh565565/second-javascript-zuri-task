@@ -1,4 +1,7 @@
 # second-javascript-zuri-task
+
+Link to my published page: https://josh565565.github.io/second-javascript-zuri-task/ 
+
 This is my second Zuri JavaScript task.
 I created a simple prompt calculator.
 The calculator can perform simple operations such as Addition, Subscraction, Division and Multiplication.
